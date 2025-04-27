@@ -3,43 +3,33 @@
 
 # 2025' certs COMPLETED
 Networking_in_Google_Cloud = {
-    1: 'Networking in Google Cloud: Fundamentals',
-    1.1: 'complete: 05-2023',
-    2: 'Networking in Google Cloud: Routing & Addressing',
-    2.1: 'complete: 07-2023',
-    3: 'Networking in Google Cloud: Network Architecture',
-    3.1: 'complete: 03-2025',
-    4: 'Networking in Google Cloud: Network Security',
-    4.1: 'complete: 03-2025',
-    5: 'Networking in Google Cloud: Load Balancing',
-    5.1: 'complete: 04-2025',
-    6: 'Networking in Google Cloud: Hybrid & Multicloud',
-    6.1: 'complete: in progress',
+    1: 'Networking in Google Cloud: Fundamentals           -- complete: 05-2023',
+    2: 'Networking in Google Cloud: Routing & Addressing   -- complete: 07-2023',
+    3: 'Networking in Google Cloud: Network Architecture   -- complete: 03-2025',
+    4: 'Networking in Google Cloud: Network Security       -- complete: 03-2025',
+    5: 'Networking in Google Cloud: Load Balancing         -- complete: 04-2025',
+    6: 'Networking in Google Cloud: Hybrid & Multicloud    -- complete: in progress',
+
 }
 
 Preparing_Professional_Cloud_Architect_Journey = {
-    1: 'Google Cloud: Fundamentals: Core Infrastructure',
-    1.1: 'complete: 06-2023',
-    2: 'Essential Google Cloud: Foundation',
-    2.1: 'complete: 02-2025',
-    3: 'Essential Google Cloud Infrastructure: Core Services',
-    3.1: 'complete: 02-2025',
-    4: 'Elastic Google Cloud: Scaling & Automation',
-    4.1: 'complete: 03-2025',
-    5: 'Reliable Google Cloud Infrastructure: Design & Process',
-    5.1: 'complete: 04-2025',
-    6: 'Architecting with Google Kubernetes Engine: Foundations',
-    6.1: 'complete: 06-2023',
-    7: 'Preparing for your Professional Cloud Architect Journey.',
-    7.1: 'complete: 04-2025',
+    1: 'Google Cloud: Fundamentals: Core Infrastructure          -- complete: 06-2023',
+    2: 'Essential Google Cloud: Foundation                       -- complete: 02-2025',
+    3: 'Essential Google Cloud Infrastructure: Core Services     -- complete: 02-2025',
+    4: 'Elastic Google Cloud: Scaling & Automation               -- complete: 03-2025',
+    5: 'Reliable Google Cloud Infrastructure: Design & Process   -- complete: 04-2025',
+    6: 'Architecting with Google Kubernetes Engine: Foundations  -- complete: 06-2023',
+    7: 'Preparing for your Professional Cloud Architect Journey  -- complete: 04-2025',
+
 }
 
 Architecting_w_Google_Kubernetes_engine = {
     0: 'https://www.coursera.org/account/accomplishments/specialization/EXNSBKNTSBCG',
-    1: '',
-    2: 'Google Cloud Fundamentals: Core Infrastructure',
-    3: 'Architecting with Google Kubernetes Engine: Workloads',
-    4: 'Architecting with Google Kubernetes Engine: Production',
+    0.1: '-- complete 05-2023',
+    1: 'Google Cloud Fundamentals: Core Infrastructure',
+    2: 'Architecting with Google Kubernetes Engine: Workloads',
+    3: 'Architecting with Google Kubernetes Engine: Production',
+    4: 'Architecting with Google Kubernetes Engine: Foundations',
 }
 
 

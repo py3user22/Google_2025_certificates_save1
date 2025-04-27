@@ -24,6 +24,16 @@ Linux_Private_Cloud_Admin = {
 }
 
 
+Cisco_AI_solutions_on_cisco_infrastructure_essentials= {
+    0.1: 'https://u.cisco.com/my-score-report/288 ',
+    0.2: 'completion date: -> 031825',
+    0.3: '--------------------------',
+    1: 'AI basics',
+    2: 'AI infrastructure requirements & compliance',
+    3: 'AI network architectures',
+    4: 'AI data considerations',
+    5: 'AI hardware resources',
+}
 
 
 """ template for dictionary
@@ -37,5 +47,8 @@ Linux_Private_Cloud_Admin = {
     7: '',
     8: '',
     9: '',
+    10: '',
+    11: '',
+    
 }
 """
