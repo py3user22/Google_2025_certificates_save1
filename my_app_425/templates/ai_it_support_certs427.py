@@ -38,10 +38,12 @@ Cisco_AI_solutions_on_cisco_infrastructure_essentials= {
 
 """ template for dictionary
 = {
+    0: '',
+    0.1: '------------------',
     1: '',
     2: '',
-    3: 'completion date: ->   ',
-    4: '----------------------',
+    3: '',
+    4: '',
     5: '',
     6: '',
     7: '',
