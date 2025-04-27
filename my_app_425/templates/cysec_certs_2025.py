@@ -33,3 +33,31 @@ Microsoft_Cybersecurity_Analyst = {
 }
 
 
+ISC2_Certified_in_cySec= {
+    1: 'https://www.coursera.org/account/accomplishments/specialization/KUDDPMU6A2AR',
+    2: '',
+    3: 'completion date: -> 091723',
+    4: '----------------------',
+    5: 'Security Principles',
+    6: 'Incident Response, BC, and DR Concepts',
+    7: 'Access Control Concepts',
+    8: 'Network Security',
+    9: 'Security Operations',
+}
+
+ISC2_SSCP = {
+    1: 'https://www.coursera.org/account/accomplishments/specialization/certificate/25J368KTVH9T',
+    2: '--- systems security certified practitioner -- SSCP',
+    3: 'completion date: -> 101223',
+    4: '----------------------',
+    5: 'Introducing Security: Aligning asset & risk mgmt',
+    6: 'Risk mgmt: Use of access controls to protect assets',
+    7: 'Cryptography',
+    8: 'Securing software, data, & end points',
+    9: 'Networks & communications security',
+    10: 'Cloud & wireless security',
+    11: 'Incident detection & response',
+    12: 'Maturing risk mgmt'
+}
+
+
