@@ -1,7 +1,7 @@
 """042525' certs list save"""
 
 
-# 2025' certs
+# 2025' certs COMPLETED
 Networking_in_Google_Cloud = {
     1: 'Networking in Google Cloud: Fundamentals',
     1.1: 'complete: 05-2023',
@@ -34,7 +34,23 @@ Preparing_Professional_Cloud_Architect_Journey = {
     7.1: 'complete: 04-2025',
 }
 
+Architecting_w_Google_Kubernetes_engine = {
+    0: 'https://www.coursera.org/account/accomplishments/specialization/EXNSBKNTSBCG',
+    1: '',
+    2: 'Google Cloud Fundamentals: Core Infrastructure',
+    3: 'Architecting with Google Kubernetes Engine: Workloads',
+    4: 'Architecting with Google Kubernetes Engine: Production',
+}
 
+
+
+
+
+
+
+
+# //////////////////////////////////////////////
+# CLOUDSKILLBOOST.GOOGLE learning
 """
 --- https://www.cloudskillsboost.google/
 --- Skill badge
@@ -55,6 +71,17 @@ Labs_required = [
 ]
 
 
+
+
+
+
+
+
+
+
+
+# //////////////////////////////////////
+# IN PROGRESS   ////  NOT COMPLETED BELOW @042625' jg
 """
 --- https://www.cloudskillsboost.google/
 --- Skill badge
