@@ -15,6 +15,10 @@ MS_fullstack_dev_cert = {
     '4 hr': 'full stack developer capstone project',
 }
 
+
+
+#/////////////////////////////////
+
 Meta_frontend_dev_cert = {
     1: '19hr -- Intro to front end development',
     2: '46hr -- Programming w/ JavaScript',
@@ -26,6 +30,21 @@ Meta_frontend_dev_cert = {
     8: '27hr -- Front end dev. capstone',
     9: '12hr -- Coding interview preparaion',
 }
+
+Meta_backend_dev_cert = {
+    1: '19hr -- Intro to back end development',
+    2: '46hr -- Programming w/ JavaScript',
+    3: '18hr -- Version control',
+    4: '27hr -- Intro to DB for backend development',
+    5: '45hr -- Django web framework',
+    6: '21hr -- APIs',
+    7: '25hr -- the full stack',
+    8: '20hr -- backend dev. capstone',
+    9: '12hr -- Coding interview preparaion',
+}
+
+#/////////////////////////////////
+
 
 Meta_data_analyst_cert = {
     1: '17hr -- Intro to data analytics',
@@ -46,6 +65,7 @@ Meta_db_engineer_cert = {
     8: '12hr -- Coding interview preparaion',
 }
 
+#/////////////////////////////////
 
 
 
@@ -99,6 +119,9 @@ AWS_cloud_solutions_architect_cert = {
     4: '8hr --  Exam prep: AWS certified solutions architect -associate'
 }
 
+
+#////////////////////////////////////////
+
 MichiganU_applied_data_science_python_cert = {
     0: 'https://www.coursera.org/programs/m-uq19a/specializations/data-science-python',
     1: '34hr -- Intro to Data Science Python',
@@ -108,12 +131,24 @@ MichiganU_applied_data_science_python_cert = {
     5: '26hr -- Applied social network analysis in python',
 }
 
+#////////////////////////////////////////
 DukeU_applied_data_engineering_python_cert = {
     0: 'https://www.coursera.org/programs/m-uq19a/specializations/python-data-engineering',
     1: '29hr -- Spark, hadoop, & snowflake for data engineering',
     2: '27hr -- Virtualization, docker, kubernetes for data engineering',
     3: '9hr -- data visualization w/ python'
 }
+
+DukeU_python_bash_sql_essentials_data_engineering_cert = {
+    0: 'https://www.coursera.org/programs/m-uq19a/specializations/python-bash-sql-data-engineering-duke',
+    1: '51hr -- python & pandas for data engineering',
+    2: '65hr -- linux & bash for data engineering',
+    3: '23hr -- scripting w/ python & sql for data engineering',
+    4: '43hr -- web apps & cli for data engineering',
+}
+#////////////////////////////////////////
+
+
 
 Infosec_python_for_cysec_cert = {
     1: '3hr -- Intro to python for cybersecurity',
@@ -130,3 +165,11 @@ MichiganU_django_4everybody_cert = {
     4: '18hr -- Using JavaScript & JSON in django'
 }
 
+Cisco_network_automation_engineering_cert = {
+    0: 'https://www.coursera.org/programs/m-uq19a/specializations/networkautomation',
+    1: '2hr -- Intro to network automation',
+    2: '3hr -- Using APIs for network automation',
+    3: '3hr -- Ansible for network automation',
+    4: '4hr -- Devops for network automation',
+    5: '2hr -- Intro model-driven programmability',
+}
