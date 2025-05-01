@@ -1,6 +1,5 @@
 """427 todo list of courses"""
 
-
 IBM_backend_JS_dev_cert = {
     1: '14hr -- Intro to software engineering *****',
     2: '13hr -- Intro to html, css, JavaScript *****',
