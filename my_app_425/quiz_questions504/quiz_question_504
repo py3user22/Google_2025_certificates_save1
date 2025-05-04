@@ -1,0 +1,54 @@
+"""504 quiz questions """
+
+
+1. The co. is located in a city where gcloud doesnt have a Dedicated Interconnect location avail.
+  u need a private connections to your gcloud VPC. Which cloud interconnect is most suitable?
+  |
+  --> Partner
+
+2. Which gcloud interconnect option requires the customer to provide: own routing equip, & setup a
+  BGP () sesstion w/ Google edge network?
+  |
+  --> Dedicated req's cust. to est. a direct physical connect to google network at a colocation facility
+
+ Interconnect types:
+ ------------------
+1) Dedicated - prov. direct phy connects between on-prem & the google network.
+    note -- physical connection made thru a supported service provider
+    VPC >> Cloud interconnect >> on-prem network
+
+    steps to create:
+      * order the dedicated interconnect connection
+      * send loa-cfa to the colocation facility
+      * test the connection
+      * create the vlan attachment & est. BGP sessions
+      * config the on-prem. routers
+
+    Max. capabilities:
+    (8) -- 10GBps       (2) 100-Gbps circuits
+
+
+2) Partner -
+    VPC >> Partner peering edge >> on-prem router >> on-prem network
+    VPC >> Cloud router >> cloud peering edge >> service provider peering edge >>
+        on-prem router >> on-prem subnet
+
+    steps to create:
+        * order partner interconnect connection from service provider
+        * create a vlan attachment
+        * request a connection from service provider
+        * activate the connection
+        * config on-prem routers
+
+    Uses:
+        * cant physically connect to a google facility
+        * need to get a connection quickly
+        * lower bandwidth needs -- 50 MBps - 50 GBps
+
+
+
+
+
+3)  Cross-cloud -  connect from another cloud provider to gcloud
+    AWS, MS Azure, Oracle,
+    Network connectivity center -->

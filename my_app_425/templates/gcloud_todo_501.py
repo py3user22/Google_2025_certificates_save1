@@ -11,12 +11,6 @@ Preparing_pro_cloud_security_engineer = {
     4: 'Ensuring data protection',
     5: 'Managing operations in a cloud environment',
     6: 'Ensuring compliance',
-    7: '',
-    8: '',
-    9: '',
-    10: '',
-    11: '',
-
 }
 
 
@@ -28,29 +22,15 @@ Preparing_pro_cloud_network_engineer = {
     3: 'Configuring managed network services',
     4: 'Implementing hybrid network interconnectivity',
     5: 'Managing, monitoring, troubleshooting network operations',
-    6: '',
-    7: '',
-    8: '',
-    9: '',
-    10: '',
-    11: '',
-
 }
 
 
 Networking_in_gcloud_fundamentals = {
     0: 'https://www.cloudskillsboost.google/paths/14/course_templates/35',
-    0.1: '------------------ 29% intermediate -- 5hr',
+    0.1: '------------------ 60% intermediate -- 5hr',
     1: 'Welcome to gcloud networking',
     2: 'VPC networking fundamentals',
     3: 'Sharing VPC networks',
     4: 'Network monitoring & logging',
-    5: '',
-    6: '',
-    7: '',
-    8: '',
-    9: '',
-    10: '',
-    11: '',
-
 }
+
