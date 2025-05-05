@@ -27,7 +27,7 @@ Preparing_pro_cloud_network_engineer = {
 
 Networking_in_gcloud_fundamentals = {
     0: 'https://www.cloudskillsboost.google/paths/14/course_templates/35',
-    0.1: '------------------ 60% intermediate -- 5hr',
+    0.1: '------------------ 100% intermediate -- 5hr',
     1: 'Welcome to gcloud networking',
     2: 'VPC networking fundamentals',
     3: 'Sharing VPC networks',

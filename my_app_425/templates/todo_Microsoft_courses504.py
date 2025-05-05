@@ -1,5 +1,27 @@
 """Course to-do list --Microsoft courses"""
 
+
+MS_python_dev_pro_cert = {
+    0: '',
+    0.1: '------------------ 0% advanced -- 101hr',
+    1: '24hr -- Python programming fundamentals',
+    2: '20hr -- Data analysis & visualization w/ python',
+    3: '26hr -- Automating & scripting w/ python',
+    4: '22hr -- Web dev. w/ python',
+    5: '21hr -- Adv. python development techniques',
+    6: '19hr -- Project development in python',
+}
+
+
+"""
+* Gain a strong foundation in Python syntax, data structures, and control flow, enabling you to write clean and efficient code.
+* Develop skills in scripting and automation to streamline workflows, manipulate data, interact with APIs, and increase efficiency.
+* Use powerful libraries like pandas and Matplotlib to extract insights from data and create compelling visualizations.
+* Explore web development using Flask, learning to create dynamic applications, interact with databases, and build RESTful APIs.
+"""
+# --------------------------------------------------------
+
+
 MS_azure_cySec_tools_and_solutions_specialization = {
     0: 'https://www.coursera.org/programs/m-uq19a/specializations/microsoft-azure-cybersecurity-tools-solutions',
     0.1: '------------------ 0% advanced -- 101hr',
@@ -81,7 +103,7 @@ MS_fullstack_dev_cert = {
 
 MS_Power_BI_Data_Analyst = {
     0: 'https://www.coursera.org/programs/m-uq19a/professional-certificates/microsoft-power-bi-data-analyst',
-    0.1: '------------------ 0% advanced -- 101hr',
+    0.1: '------------------ 0% advanced -- ?hr',
     1: '19hr -- Prep data for analysis w/ MS Excel',
     2: '17hr -- Harnessing the power of data w/ Power BI',
     3: '20hr -- Extract, transform, & load data in Power BI',
