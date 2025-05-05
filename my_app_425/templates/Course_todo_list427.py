@@ -1,23 +1,5 @@
 """427 certs todo list and time """
 
-MS_fullstack_dev_cert = {
-    '39 hr': 'Foundation of coding full stack',
-    '29 hr': 'Intro to C# programming',
-    '38 hr': 'Intro to web development',
-    '35 hr': 'Blazor for front end development',
-    '43 hr': 'back end development w/ .NET',
-    '27 hr': 'Database integration & mgmt',
-    '34 hr': 'full stack integration',
-    '39 hrs': 'security & authentication',
-    '47 hr': 'performance optimization & scalability',
-    '47 hrs': 'Data structures & algorithms',
-    '37 hr': 'Deployment & devOps',
-    '4 hr': 'full stack developer capstone project',
-}
-
-
-
-#/////////////////////////////////
 
 Meta_frontend_dev_cert = {
     1: '19hr -- Intro to front end development',

@@ -52,3 +52,22 @@
 3)  Cross-cloud -  connect from another cloud provider to gcloud
     AWS, MS Azure, Oracle,
     Network connectivity center -->
+-----------------------------------------
+
+Cloud VPN -- securely connects your peer network to a VPC thru IPsec tunnels
+    uses:
+    * dont need the connection speed of cloud interconnect
+    * must encrypt data in transit
+    * prefer IPsec tunnel over internet
+    * network cant support dedicated fiber connections to gcloud
+    * want to selectively advertise routes between vpc networks
+
+
+-----------------------------------------
+
+? In network connectivity center (NCC), what are the 2 main types of spokes that can be connected to a hub?
+    >>  
+
+? Cloud router purpose >>
+
+
