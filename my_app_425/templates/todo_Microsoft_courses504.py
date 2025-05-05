@@ -20,7 +20,7 @@ MS_azure_cySec_tools_and_solutions_specialization = {
 
 
 
-MS_Azure_security_enginner_associate = {
+MS_Azure_security_engineer_associate_az500 = {
     0: 'https://www.coursera.org/professional-certificates/microsoft-azure-security-engineer-associate',
     0.1: '------------------ 0% advanced -- 101hr',
     1: '12hr -- Secure Access w/ Azure active directory',
@@ -41,6 +41,7 @@ MS_Azure_security_enginner_associate = {
 skills: Cloud security, MS azure, data security, Azure AD, Securing apps
 """
 # --------------------------------------------------------
+
 
 MS_Azure_network_engineer_az700 = {
     0: 'https://www.coursera.org/programs/m-uq19a/specializations/az700-exam-prep-and-certification',
@@ -92,4 +93,18 @@ MS_Power_BI_Data_Analyst = {
 }
 
 # --------------------------------------------------------
+Net_fullstack_dev_specialization = {
+0: 'https://www.coursera.org/programs/m-uq19a/specializations/dot-net-fullstack',
+0.1: '------------------ 0% introductory -- 50hr',
+1: '14hr -- .NET full stack foundation',
+2: '18hr -- Frontend development using react',
+3: '18hr -- backend development using .NET full stack',
+}
 
+"""
+* Master .NET full stack web dev: from .NET core basics to advanced web application creation using .NET technologies.  
+* Explore backend with ASP.NET: Understand ASP.NET Core architecture, MVC patterns, and build RESTful web APIs with integrated front-end applications. 
+* Dive into React frontend development: from foundational HTML & CSS to dynamic UI design using JavaScript and React's core concepts. 
+* Acquire robust full-stack skills: Ensuring proficiency in creating scalable, high-quality web applications tailored to modern business needs. 
+"""
+# --------------------------------------------------------

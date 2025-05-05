@@ -34,23 +34,3 @@ Cisco_AI_solutions_on_cisco_infrastructure_essentials= {
     4: 'AI data considerations',
     5: 'AI hardware resources',
 }
-
-
-""" template for dictionary
-= {
-    0: '',
-    0.1: '------------------',
-    1: '',
-    2: '',
-    3: '',
-    4: '',
-    5: '',
-    6: '',
-    7: '',
-    8: '',
-    9: '',
-    10: '',
-    11: '',
-    
-}
-"""
