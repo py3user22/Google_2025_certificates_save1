@@ -22,6 +22,26 @@ MS_python_dev_pro_cert = {
 # --------------------------------------------------------
 
 
+MS_AI_ML_engineering_pro_cert= {
+    0: 'https://www.coursera.org/programs/m-uq19a/professional-certificates/microsoft-ai-and-ml-engineering',
+    0.1: '------------------ 0% advanced -- ?hr -- needs MS azure license or free trialX',
+    1: '35hr -- Foundations of AI & ML',
+    2: '45hr -- AI & ML algorithms & techniques',
+    3: '45hr -- Building intelligent troubleshooting agents',
+    4: '21hr -- MS Azure for AI & ML',
+    5: '32hr -- Adv. AI & ML techniques & capstone',
+}
+
+
+"""
+* Design and Implement AI & ML Infrastructure: Develop environments, including data pipelines, model development frameworks, and deployment platforms.
+* Develop Intelligent Troubleshooting Agents: Create AI-powered agents capable of diagnosing and resolving issues autonomously. 
+* Master AI & ML Algorithms and Techniques: Apply supervised, unsupervised, reinforcement learning, and deep learning methods to solve challenges. 
+* Leverage Microsoft Azure for AI & ML Workflows: Set up, manage, and optimize the entire AI & ML lifecycle using Azure.
+"""
+# --------------------------------------------------------
+
+
 MS_azure_cySec_tools_and_solutions_specialization = {
     0: 'https://www.coursera.org/programs/m-uq19a/specializations/microsoft-azure-cybersecurity-tools-solutions',
     0.1: '------------------ 0% advanced -- 101hr',

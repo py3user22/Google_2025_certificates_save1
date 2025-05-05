@@ -13,6 +13,7 @@ Networking_in_Google_Cloud = {
 }
 
 Preparing_Professional_Cloud_Architect_Journey = {
+    0: 'https://www.coursera.org/account/accomplishments/specialization/HGHRI09XIAYF',
     1: 'Google Cloud: Fundamentals: Core Infrastructure          -- complete: 06-2023',
     2: 'Essential Google Cloud: Foundation                       -- complete: 02-2025',
     3: 'Essential Google Cloud Infrastructure: Core Services     -- complete: 02-2025',
@@ -32,7 +33,25 @@ Architecting_w_Google_Kubernetes_engine = {
     4: 'Architecting with Google Kubernetes Engine: Foundations',
 }
 
+Google_cloud_DB_engineer = {
+    0: '',
+    0.1: '------------------ in-progress/not on %  -- ?hr',
+    1: 'lab -- welcome lab',
+    2: '5hr -- Google cloud fundamentals: core infrastructure',
+    3: 'lab -- Cloud SQL for mySQL: qwik start ',
+    4: 'lab -- Migrating to Cloud SQL from Amazon RDS for MySQL Using Database Migration Service',
+    5: 'lab -- Migrating On-premises MySQL Using a Continuous Database Migration Service Job',
 
+    # -------- below needs to be completed @050525'
+    6: 'lab -- Migrate to Cloud SQL for PostgreSQL using Database Migration Service',
+    7: 'lab -- Connect an App to a Cloud SQL for PostgreSQL Instance',
+    8: 'lab -- Securing a Cloud SQL for PostgreSQL Instance',
+    9: 'lab -- Configure Replication and Enable Point-in-Time-Recovery for Cloud SQL for PostgreSQL',
+    10: 'lab -- Cloud Spanner - Loading Data and Performing Backups',
+    11: 'lab -- Cloud Spanner - Defining Schemas and Understanding Query Plans',
+    12: 'lab -- Deploy a Modern Web App connected to a Cloud Spanner Instance',
+    13: 'lab -- Enterprise Database Migration',
+}
 
 
 
