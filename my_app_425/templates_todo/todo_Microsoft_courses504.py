@@ -3,7 +3,7 @@
 
 MS_python_dev_pro_cert = {
     0: '',
-    0.1: '------------------ 0% advanced -- 101hr',
+    0.1: '------------------ 0% advanced -- 132hr',
     1: '24hr -- Python programming fundamentals',
     2: '20hr -- Data analysis & visualization w/ python',
     3: '26hr -- Automating & scripting w/ python',
@@ -44,7 +44,7 @@ MS_AI_ML_engineering_pro_cert= {
 
 MS_azure_cySec_tools_and_solutions_specialization = {
     0: 'https://www.coursera.org/programs/m-uq19a/specializations/microsoft-azure-cybersecurity-tools-solutions',
-    0.1: '------------------ 0% advanced -- 101hr',
+    0.1: '------------------ 0% advanced -- 84hr',
     1: '20hr -- CySec Identity & access solutions w/ Azure AD',
     2: '23hr -- Azure CySec solutions & MS defender',
     3: '20hr -- CySec testing & prevention',
