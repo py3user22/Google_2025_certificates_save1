@@ -58,3 +58,14 @@ IBM_Generative_AI_Engineering_Professional_Certificate = {
     16: '9hr -- Generative AI apps w/ RAG & language',
 }
 
+
+IBM_Generative_AI_fundamentals = {
+    0: 'https://www.coursera.org/programs/m-uq19a/specializations/generative-ai-for-everyone?',
+    0.1: '------------------ ',
+    1: '7hr -- Generative AI, Introduction & applications',
+    2: '7hr -- Generative AI, Prompt engineering basics',
+    3: '6hr -- Generative AI Foundational Models & platforms',
+    4: '6hr -- Generative AI Impact, considerations, ethical',
+    5: '7hr -- Developing AI Business transformation & career development',
+}
+
